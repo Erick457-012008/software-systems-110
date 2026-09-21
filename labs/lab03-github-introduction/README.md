@@ -56,18 +56,18 @@ This text is *italicized*.
 
 # Section 2: Student Requirements - Lab is worth 20 pts
 
-Complete all of the following in your notes section.
+Complete all of the following in your notes section 
 
 ## Checklist
 
-- [ ] Create at least three headers (Level 1, Level 2, Level 3)
-- [ ] Include one horizontal rule
-- [ ] Use bold text
-- [ ] Use italic text
-- [ ] Create a bullet list containing at least three items
-- [ ] Create a numbered list containing at least three items
-- [ ] Create a task list containing at least three tasks
-- [ ] Add a hyperlink with your GitHub profile
+- [x] Create at least three headers (Level 1, Level 2, Level 3)
+- [x] Include one horizontal rule
+- [x] Use bold text
+- [x] Use italic text
+- [x] Create a bullet list containing at least three items
+- [x] Create a numbered list containing at least three items
+- [x] Create a task list containing at least three tasks
+- [x] Add a hyperlink with your GitHub profile
 
 ## Instructions
 
@@ -84,5 +84,41 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
+# Wake up 
 
+## Go to work 
+
+### Go home and go to bed  
+
+----
+
+**HI**
+
+----
+
+The word *bargin* should be italicized 
+
+----
+
+list of stuff 
+
+- books 
+- food 
+- phone 
+
+----
+How to set up your computer
+
+1. turn on your monitor 
+2. Press the power button on the pc 
+3. Login
+
+----
+Tasks for today:
+
+- [x] Go to college 
+- [ ] Go home 
+- [ ] Dust your room 
+
+----
+[Github profile](https://github.com/Erick457-012008)
