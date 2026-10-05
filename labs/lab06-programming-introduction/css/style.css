@@ -5,12 +5,7 @@
 /* ===== Page ===== */
 
 body {
-    background: linear-gradient(
-        to bottom,
-        #090014 0%,
-        #1b0033 50%,
-        #12001f 100%
-    );
+    background: White;
 
     color: #ffffff;
     font-family: "Segoe UI", Arial, sans-serif;
